@@ -385,7 +385,7 @@ form .row:first-child .floating-label-form-group {
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085A1;
+  background: blueviolet;
 }
 img::selection {
   color: white;
@@ -396,5 +396,8 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  -webkit-tap-highlight-color: #0085A1;
+  -webkit-tap-highlight-color: blueviolet;
+}
+h1 .timeline-Header-title .u-inlineBlock{
+	visibility: hidden;
 }
