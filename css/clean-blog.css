@@ -398,6 +398,6 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: blueviolet;
 }
-h1 .timeline-Header-title .u-inlineBlock{
+a.twitter-timeline h1 .timeline-Header-title .u-inlineBlock{
 	visibility: hidden;
 }
